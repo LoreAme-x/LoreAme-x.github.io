@@ -51,9 +51,9 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Lorenzo Amerio', description: 'Lorenzo Amerio', imageURL: '' },
+  seo: { title: 'Portfolio of Lorenzo Amerio', description: '', imageURL: '' },
   social: {
-    linkedin: 'lorenzo-amerio',
+    linkedin: 'https://www.linkedin.com/in/lorenzo-amerio-0a970534b/',
     instagram: 'lorenzo_amerio',
     phone: '+39 349 636 4575',
     email: 'lorenzo.amerio14@gmail.com',
